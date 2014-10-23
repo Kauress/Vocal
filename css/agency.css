@@ -888,6 +888,15 @@ color: white;
     font-family: "Nunito";
 
 }
+h4{
+    font-family: "Nunito";
+}
+p{
+    font-family: "Nunito";
+}
+
+
+
 #logopic{
     background-color: black;
 }
@@ -896,10 +905,10 @@ color: white;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
-}
 
+}
 #picwell{
-    margin-top: 60px;
+    margin-top: 51px;
 }
 #port {
    background-size: 20px;
